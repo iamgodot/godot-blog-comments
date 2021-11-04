@@ -1,2 +1,2 @@
-# ghost-comments
-Public repo for ghost blog comments.
+# godot-blog-comments
+Public repo for comments on [Godot's Blog](https://iamgodot.com).
